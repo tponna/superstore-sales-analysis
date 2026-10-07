@@ -51,5 +51,10 @@ Zudem unterscheide ich zwischen Produktzeilen (9'993) und eindeutigen Bestellung
 ## Datenquelle
 [Superstore Sales Dataset auf Kaggle] https://www.kaggle.com/datasets/shumailazubair/superstore-sales-dataset-cleaned-for-sql-and-powerbi?select=superstore_sales.csv
 
+## Hinweis zu den Projekten
+Bei der Code-Erstellung habe ich unterstützend KI-Tools (Claude) genutzt – 
+etwa für Syntax-Hilfe und Debugging. Fragestellung, Analyseentscheidungen 
+und Interpretation der Ergebnisse stammen von mir.
+
 ## Kontakt
 P. Tharunnya · p.tharunnya@gmail.com
